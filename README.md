@@ -1,1 +1,1 @@
-# self-Management
+# self-management
